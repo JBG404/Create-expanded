@@ -1,0 +1,13 @@
+---Main mods---
+>create 6.0
+>immersive portals
+
+---functionality mods---
+sinyta connector
+
+---library mods---
+
+---create addons---
+
+---General addons---
+>miniscaled
